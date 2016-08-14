@@ -17,9 +17,9 @@
 <body>
   <img src="" class="banner" />
     <p class="home-text"> <a> Blog </a> </p>
-    <p class=""> <a> About Me </a> </p>
-    <p class=""> <a> As Seen In </a> </p>
-    <p class=""> <a> Shop </a> </p>
+    <p class="home-text"> <a> About Me </a> </p>
+    <p class="home-text"> <a> As Seen In </a> </p>
+    <p class="home-text"> <a> Shop </a> </p>
 
 </body>
 </html> 
